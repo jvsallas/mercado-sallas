@@ -1,0 +1,6 @@
+[submodule "mercado-sallas-clientes"]
+	path = mercado-sallas-clientes
+	url = https://github.com/jvsallas/mercado-sallas-clientes.git
+[submodule "mercado-sallas-produtos"]
+	path = mercado-sallas-produtos
+	url = https://github.com/jvsallas/mercado-sallas-produtos.git
