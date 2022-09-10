@@ -4,3 +4,6 @@
 [submodule "mercado-sallas-produtos"]
 	path = mercado-sallas-produtos
 	url = https://github.com/jvsallas/mercado-sallas-produtos.git
+[submodule "mercado-sallas-gateway"]
+	path = mercado-sallas-gateway
+	url = https://github.com/jvsallas/mercado-sallas-gateway.git
